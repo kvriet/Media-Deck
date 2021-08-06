@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Media Deck")(type KiCad)(uri "${KIPRJMOD}/Media Deck.pretty")(options "")(descr ""))
+)
