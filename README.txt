@@ -3,14 +3,14 @@
 
 Components:
 - Arduino Pro Micro (with or without headers)
-- 5x Cherry MX (-like) switches
-- 5x Cherry MX compatible keycaps
+- 6x Cherry MX (-like) switches
+- 6x Cherry MX compatible keycaps
 - 6x diode (1N4148 SOD-323)
 - 6x 100nF cap (0805) OPTIONAL
 - 6x reverse-mounted LED (SK6812 3228)
 - 1x slider potentiometer 35mm 3 foot
 - 2x female or male header
-- 4x mini screw (M1.7x6)
+- 4x mini screw (M1.7x5)
 
 
 Printing and assembly:
